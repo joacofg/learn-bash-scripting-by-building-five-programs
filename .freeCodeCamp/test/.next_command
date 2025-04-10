@@ -35,3 +35,4 @@ touch questionnare.sh
 rm questionnare.sh
 touch questionnaire.sh
 sh questionnaire.sh
+bash questionnaire.sh
