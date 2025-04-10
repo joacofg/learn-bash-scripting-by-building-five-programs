@@ -92,3 +92,4 @@ __vsc_prompt_cmd_original
 bad_command
 bad_command
 bad_command
+ls --color=auto
