@@ -48,3 +48,4 @@ ls --color=auto -l
 ./questionnaire.sh
 __vsc_prompt_cmd_original
 echo QUESTION1
+./questionnaire.sh
