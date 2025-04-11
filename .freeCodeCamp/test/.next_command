@@ -151,3 +151,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 touch bingo.sh
 rm bingo.sh
 touch bingo.sh
+chmod +x bingo.sh
