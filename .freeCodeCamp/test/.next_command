@@ -153,3 +153,4 @@ rm bingo.sh
 touch bingo.sh
 chmod +x bingo.sh
 which bash
+./bingo.sh
