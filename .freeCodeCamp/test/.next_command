@@ -317,3 +317,4 @@ which bash
 ./five.sh
 clear
 ./five.sh
+help
