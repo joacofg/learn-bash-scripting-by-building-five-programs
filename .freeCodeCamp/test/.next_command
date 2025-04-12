@@ -283,3 +283,8 @@ help function
 ./fortune.sh
 help
 help until
+./fortune.sh
+help [[
+./fortune.sh
+./fortune.sh
+./fortune.sh
