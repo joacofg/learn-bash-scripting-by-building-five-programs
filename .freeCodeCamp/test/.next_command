@@ -267,3 +267,4 @@ touch fortune.sh
 chmod -x fortune.sh
 chmod +x fortune.sh
 which bash
+./fortune.sh
